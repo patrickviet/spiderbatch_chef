@@ -1,0 +1,3 @@
+name 'spiderbatch'
+depends 'runit'
+
